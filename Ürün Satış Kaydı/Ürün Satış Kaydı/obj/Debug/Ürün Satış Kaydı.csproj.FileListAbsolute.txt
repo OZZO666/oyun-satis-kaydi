@@ -1,0 +1,18 @@
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\bin\Debug\Ürün Satış Kaydı.exe.config
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\bin\Debug\Ürün Satış Kaydı.exe
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\bin\Debug\Ürün Satış Kaydı.pdb
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\obj\Debug\Ürün_Satış_Kaydı.Form1.resources
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\obj\Debug\Ürün_Satış_Kaydı.Properties.Resources.resources
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\obj\Debug\Ürün Satış Kaydı.csproj.GenerateResource.Cache
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\obj\Debug\Ürün Satış Kaydı.exe
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\obj\Debug\Ürün Satış Kaydı.pdb
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\obj\Debug\Ürün_Satış_Kaydı.Form2.resources
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\obj\Debug\Ürün_Satış_Kaydı.Form3.resources
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\bin\Debug\satislar.mdb
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\obj\Debug\Ürün Satış Kaydı.csprojResolveAssemblyReference.cache
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\bin\Debug\urunler.mdb
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\obj\Debug\Ürün_Satış_Kaydı.Form4.resources
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\bin\Debug\Ürün Satış Kaydı.exe.manifest
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\bin\Debug\Ürün Satış Kaydı.application
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\obj\Debug\Ürün Satış Kaydı.exe.manifest
+C:\Users\oZZo\Documents\Visual Studio 2013\Projects\Ürün Satış Kaydı\Ürün Satış Kaydı\obj\Debug\Ürün Satış Kaydı.application

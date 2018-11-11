@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Ürün Satış Kaydı.exe" version="1.0.0.0" publicKeyToken="6292a44555775c81" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Ürün Satış Kaydı" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Ürün Satış Kaydı.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ürün Satış Kaydı.exe" size="82432">
+      <assemblyIdentity name="Ürün Satış Kaydı" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>eA9mECRf0V3VK+YWnZZW8xsZwk3zK+FcAZRKVIonL7U=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="satislar.mdb" size="335872" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+t4YmG4dYoD5hQc1TiLzabopU6bxKircP/rw5+34tek=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="urunler.mdb" size="299008" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gshE85tfFWmepI/GUqNL0lDEYO3KkxGDAJbjC8OwaX8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Ürün Satış Kaydı.exe.config" size="767">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CdQSbuUSNBRBKIPjP/tNMwV4pPLchjRK7/HxuUZWBWo=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Razer\oZZo" issuerKeyHash="6aceea132441547161096e05e55d1ec7c7cbf3dc" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>oNpyshk3Fs7difv0JAXhlu7VPEl9JOALX/AFHUKt7Es=</DigestValue></Reference></SignedInfo><SignatureValue>XYj065CNFhNMff/dU0NosYRSdVrXAhGTFEn5kAHeNWS4E5Q3BXc8D1Fz+sHHnXoEoMhVFpZYcmKuGVIv8ZiGgaaljU6dbdcCWiYdTEW94WDoApTiXucPjBfeGu9dTW2qbzdZg35cjLYtGkwtUT6XnXD2ebtWmDzhW8yC7HMGJw4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sc2PnelEduBp0rYkV8Otr7LxbJ4y/1lSlemFyUEzQgHJRRiElQgGC20fNdCzqAd3190mNyPOL+4ZFBn6E68bekyUO3zzbe2DpqDsSKWN+ZX5GUDHa1CO8FYHT0kX9fQlPTHvZ6n/hU/5aTVSmz25nq3eNALJFgR7N5clfvEBLYk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4becad421d05f05f0be0247d493cd5ee96e10524f4fb89ddce163719b272daa0" Description="" Url=""><as:assemblyIdentity name="Ürün Satış Kaydı.exe" version="1.0.0.0" publicKeyToken="6292a44555775c81" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Razer\oZZo</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>SuhO0J3h52YR2bZ0GmtpFsGb/ci03zhyBE0t/VkrrfM=</DigestValue></Reference></SignedInfo><SignatureValue>PPbAJ4lyY/o52og/9BC/ySG6Bs//jKnwUIzgk8T+ERATl+RfRLFPphpkkCnnv5rI5FUtRR/XftsdLx7ZBjmaHfM8dXO5PshpuMTayCI4ZlA+irSusoLYCHru6yfY5LiDTj7MhO/P9sCY1sjQAEmmxOE4XA/rSuQyWglJW8f/hFA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sc2PnelEduBp0rYkV8Otr7LxbJ4y/1lSlemFyUEzQgHJRRiElQgGC20fNdCzqAd3190mNyPOL+4ZFBn6E68bekyUO3zzbe2DpqDsSKWN+ZX5GUDHa1CO8FYHT0kX9fQlPTHvZ6n/hU/5aTVSmz25nq3eNALJFgR7N5clfvEBLYk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQW1V9CpXNea1DlyJcxayILTANBgkqhkiG9w0BAQsFADAfMR0wGwYDVQQDHhQAUgBhAHoAZQByAFwAbwBaAFoAbzAeFw0xODExMDcxODU5MjZaFw0xOTExMDgwMDU5MjZaMB8xHTAbBgNVBAMeFABSAGEAegBlAHIAXABvAFoAWgBvMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxzY+d6UR24GnStiRXw62vsvFsnjL/WVKV6YXJQTNCAclFGISVCAYLbR810LOoB3fX3SY3I84v7hkUGfoTrxt6TJQ7fPNt7YOmoOxIpY35lfkZQMdrUI7wVgdPSRf19CU9Me9nqf+FT/lpNVKbPbmerd40AskWBHs3lyV+8QEtiQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAIWNwVejMswOVGYJy3Y8IiX27L5V3yZbuMdkL3Qi8NQzIrmjcCH/38COnRC9gGQis2K3N9WZVU2VxMURSJLK40UZ285B496L0ERbMvd36+VJie66p62NmTD3L7hP6KgF+uWqPZbbwxlgyeuJBk/m0n/Mu/eqVEZwYo+9HPIGivLH</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
